@@ -1,0 +1,16 @@
+img {
+	height: 500px;
+	overflow: hidden;
+}
+img#inrto {
+	width: 200px;
+}
+ul.text {
+	list-style-type:none;
+	text-align: center;
+
+}
+ol.text {
+	list-style-type:none;
+	text-align: center;
+}
